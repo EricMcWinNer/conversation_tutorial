@@ -1,0 +1,15 @@
+.nav_link.active {
+    background: #6C757D !important;
+}
+
+.avatar {
+    display: inline-flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    background: #7853B3;
+}
